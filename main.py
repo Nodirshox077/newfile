@@ -116,6 +116,7 @@ class Core:
             print('Data received')
         finally:
             return result
+        #salom dunyo
 
 d = Core()
 
