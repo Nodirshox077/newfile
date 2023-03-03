@@ -1,6 +1,6 @@
 import pymysql.cursors
 
-
+#hello world
 class Core:
 
     def __init__(self) -> None:
